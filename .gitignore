@@ -1,6 +1,15 @@
+#########################	Folder	###########################
 .ipynb_checkpoints
 .vscode
 .Res
-AI_ML
-Project
+Project(Python)
 03.External_Module_And_Library
+AI_ML
+#########################	files	###########################
+push.bat
+gitinit
+######################### 	Type	###########################
+*.code-workspace
+*.a
+
+####################################################################
