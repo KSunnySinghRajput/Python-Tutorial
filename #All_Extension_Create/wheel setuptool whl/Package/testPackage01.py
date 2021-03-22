@@ -1,0 +1,13 @@
+from Mypackage.Class1 import *
+fun1()
+fun2()
+fun3()
+fun4()
+#fun5()
+#fun6()
+#fun7()
+#fun8()
+#fun9()
+#fun10()
+#fun11()
+#fun12()
