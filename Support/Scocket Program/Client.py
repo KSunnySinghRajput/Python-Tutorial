@@ -1,0 +1,10 @@
+from socket import *
+
+HOST = '132.23.23.23'
+PORT = 65432        # The port used by the server
+
+s=socket(socket.AF_INET, socket.SOCK_STREAM)
+s.connect((HOST, PORT))
+s.sendall(b'Hello, world')
+data = s.recv(1024)
+print('Received', repr(data))
