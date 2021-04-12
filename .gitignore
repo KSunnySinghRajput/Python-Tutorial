@@ -13,3 +13,27 @@ gitinit
 *.a
 
 ####################################################################
+
+
+000.Index.ipynb
+102.Datatypes.ipynb
+103.BinaryDataServices.ipynb
+104.TextProcessingServices.ipynb
+105.NumericAndMathematicalModules.ipynb
+106.FunctionalProgrammingModules.ipynb
+107.FileAndDirectoryAccess.ipynb
+108.DataPersistence.ipynb
+109.DataCompressionAndArchiving.ipynb
+110.FileFormats-configparser.ipynb
+111.CryptographicServices.ipynb
+112.GenericOperatingSystemServices.ipynb
+113.ConcurrentExecution.ipynb
+114.TheConcurrentPackage.ipynb
+115.MultimediaServices.ipynb
+116.ProgramFrameworks.ipynb
+128.MSWindowsSpecificServices.ipynb
+201.NetworkingAndInterprocessCommunication.ipynb
+202.InternetDataHandling.ipynb
+203.HTMLStructuredMarkupProcessing.ipynb
+204.XMLProcessing.ipynb
+205.InternetProtocolsAndSupport.ipynb

@@ -1,1 +1,0 @@
-gcc -o testProg main.c -L. -lTestDll

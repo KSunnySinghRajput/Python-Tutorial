@@ -1,1 +1,0 @@
-gcc -fPIC -shared -o libfun.so sample.c

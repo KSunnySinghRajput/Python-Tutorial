@@ -1,1 +1,0 @@
-python -O -m py_compile hello1.py
