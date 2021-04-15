@@ -15,6 +15,15 @@ gitinit
 ####################################################################
 
 000.Index.ipynb
+
+005.Datatype-StringType.ipynb
+009.ControlStatement.ipynb
+010.Function & Modules.ipynb
+011.Decorator Function.ipynb
+012.Built-in Functions.ipynb
+012.File Handeling.ipynb
+
+
 102.Datatypes.ipynb
 103.BinaryDataServices.ipynb
 104.TextProcessingServices.ipynb
